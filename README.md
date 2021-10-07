@@ -115,7 +115,7 @@ $ yarn dev
 ```
 
 
-A aplicação estará disponível no seu browser pelo endereço http://localhost:3000.
+A aplicação estará disponível no seu browser pelo endereço http://localhost:3000. <br/>
 E o servidor fake estará disponível no seu browser pelo endereço http://localhost:3333.
 
   
