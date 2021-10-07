@@ -42,13 +42,22 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
-- [TypeScript](https://www.typescriptlang.org/) 
+<a href="https://www.typescriptlang.org/">
+	  <img alt="Acessar site do TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+</a>
 
-- [SASS](https://sass-lang.com/) 
+<a href="https://www.typescriptlang.org/">
+	  <img alt="Acessar site do SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+</a>
 
-- [React](https://reactjs.org)
+<a href="https://www.typescriptlang.org/">
+	  <img alt="Acessar site do React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+</a>
 
-- [NextJS](https://nextjs.org/)
+<a href="https://www.typescriptlang.org/">
+	  <img alt="Acessar site do NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+</a>
+
 
 - Bootstrapped com [create-next-app](https://nextjs.org/docs/api-reference/create-next-app)
 
@@ -129,10 +138,10 @@ Você pode visualizar o layout e o repositório original do projeto através dos
 
 <p align="center">
 	<a href="https://github.com/rocketseat-education/nlw-05-reactjs">
-	  <img alt="Acessar requisitos no whimsical" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+	  <img alt="Acessar repositório original" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 	</a>
 	<a href="https://www.figma.com/file/68n9Vv4yD24dviywUn2gID/Podcastr-Copy?fuid=850873747411417061">
-	  <img alt="Acessar layout no AdobeXd" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+	  <img alt="Acessar layout no Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 	</a>
 </p>
 
@@ -162,8 +171,10 @@ Você pode visualizar o layout e o repositório original do projeto através dos
      <sub><b>Pedro Barbosa</b></sub></a> <a href="https://github.com/pedrobarbosa0" title="GitHub">⚛️</a>
      <br />
 
-   <a href="https://www.linkedin.com/in/pedro-abarbosa/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Pedro%20Barbosa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/pedro-abarbosa"></a> 
+   <p align="center">
+	<a href="https://www.linkedin.com/in/pedro-abarbosa/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Pedro%20Barbosa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/pedro-abarbosa"></a> 
    <a href="mailto:p.brbsa@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-p.brbsa@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:p.brbsa@gmail.com"></a> 
+</p>
 </div>
 
   
