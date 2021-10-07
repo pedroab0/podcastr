@@ -116,6 +116,7 @@ $ yarn dev
 
 
 A aplicação estará disponível no seu browser pelo endereço http://localhost:3000.
+E o servidor fake estará disponível no seu browser pelo endereço http://localhost:3333.
 
   
 
@@ -181,7 +182,7 @@ Você pode visualizar o layout e o repositório original do projeto através dos
 
 ##  📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.<br/>
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.<br/>
 Feito com ❤️ por Pedro Barbosa 👋🏽 [Entre em contato!](https://www.linkedin.com/in/pedro-abarbosa/)
 
 ---
