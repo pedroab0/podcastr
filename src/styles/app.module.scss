@@ -1,7 +1,12 @@
 .wrapper {
-  display: flex;
+	display: flex;
 
-  main {
-    flex: 1;
-  }
+	main {
+		flex: 1;
+	}
+
+	@media (max-width: 1080px) {
+		flex-direction: column;
+	}
 }
+
